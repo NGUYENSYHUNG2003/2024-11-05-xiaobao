@@ -1,0 +1,5 @@
+.link-overlay {
+  position: absolute; /* Đặt vị trí tuyệt đối */
+  top: 750px; /* Cách đỉnh của trang 50px */
+  left: 1750px; /* Cách trái của trang 100px */
+}
